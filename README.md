@@ -1,1 +1,0 @@
-This repository has all the projects on  0x00. shell basics
